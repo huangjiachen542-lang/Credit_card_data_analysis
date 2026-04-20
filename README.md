@@ -16,7 +16,7 @@
 
 ## 📁 文件说明
 
-- `credit_card_analysis.ipynb` ：数据清洗、特征工程、统计检验代码
-- `report.pdf` ：详细分析报告（含图表与洞察）
+- `Credit_card_data_analysis.ipynb` ：数据清洗、特征工程、统计检验代码
+- `Credit_card_data_analysis.pdf` ：详细分析报告（含图表与洞察）
 - `Credit_card.twb` ：Tableau 打包工作簿
 - `Credit_card.pdf` ：Tableau 仪表板截图
